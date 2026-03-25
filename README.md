@@ -70,5 +70,5 @@ npm run dev
 This project is open-source and ready for the community to build upon.
 
 <p align="center">
-  Built with ❤️ for the Dev Community.
+  Built with ❤️ by **Probs**
 </p>
