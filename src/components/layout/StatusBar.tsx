@@ -72,6 +72,10 @@ export const StatusBar = React.memo(() => {
         <div className="hover:bg-white/10 px-2 cursor-pointer h-full flex items-center pr-2">
           <Bell size={13} />
         </div>
+        <div className="flex items-center gap-1.5 px-3 bg-vscode-accent/10 border-l border-vscode-border h-full group">
+          <span className="text-[10px] text-gray-500 group-hover:text-gray-400">BUILD BY</span>
+          <span className="text-[11px] font-bold text-vscode-accent tracking-tighter">PROBS</span>
+        </div>
       </div>
     </div>
   );
