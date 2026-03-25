@@ -16,6 +16,10 @@
 
 ---
 
+### 🌐 [**Live Demo: vscodetype.vercel.app**](https://vscodetype.vercel.app)
+
+---
+
 ## ✨ Why VSCode-Type?
 
 Traditional screen recordings are messy. **VSCode-Type** provides a pixel-perfect, hyper-realistic Visual Studio Code environment specifically tuned for **Instagram Reels, TikToks, and YouTube Shorts**.
